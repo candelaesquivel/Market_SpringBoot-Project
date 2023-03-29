@@ -9,8 +9,12 @@ crea todos los servicios para manejar tus productos y finalmente despliega tu ap
 Objetivos logrados:
 
 Configurar un entorno de desarrollo 
+
 Conectar a una base de datos , mostrarla  a través de endpoint
+
 Conocer el ecosistema de Spring
+
 Documentar una API
+
 Desplegar la app en Heroku para ser consumida
 
